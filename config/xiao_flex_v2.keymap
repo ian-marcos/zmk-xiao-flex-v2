@@ -35,7 +35,7 @@
 &trans      &trans        &trans        &trans        &trans                                &trans  &trans  &trans   &trans   &trans
 
                                                       &trans        &trans          &trans  &trans
-                                        &bootloader   &trans        &trans          &trans  &to 0   &tog 0
+                                        &bootloader   &to 0         &trans          &trans  &to 0   &trans
                                                                     &trans          &trans
             >;
         };
